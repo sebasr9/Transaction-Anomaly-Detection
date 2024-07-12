@@ -16,6 +16,10 @@ In order to identify abnormal spending patterns, we have opted to develop tempor
 We use an anomaly score to quantitatively evaluate the model, indicating the degree of isolation of a data point. Consequently, lower (more negative) scores signify more significant anomalies. Moreover, we opted to establish an appropriate threshold in the anomaly scores (-0.04) based on the anomaly score distribution to assist the bank in prioritizing and efficiently allocating resources to anomalies with high significance scores. Finally, to assess the qualitative aspect, we examined the relationship of variables such as 'amt', 'total daily spending', 'hours', and 'distance'. This gives us insights into the model's utility in identifying abnormal behaviour in customer spending and enabling proactive and well-informed decision-making.
 
 
+![image](https://github.com/user-attachments/assets/14f62e77-1e20-4f37-9165-22efacb2e5f4)
 
+![image](https://github.com/user-attachments/assets/ebd6d5ab-ede5-4999-b148-1087cf57d5d7)
+
+![image](https://github.com/user-attachments/assets/31339985-3c24-4566-ac1b-5b24720ab83a)
 
 
